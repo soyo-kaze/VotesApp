@@ -1,0 +1,22 @@
+{
+  "name": "votesapp",
+  "version": "1.0.0",
+  "description": "web app to vote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyo-kaze/VotesApp.git"
+  },
+  "keywords": [
+    "VotesApp"
+  ],
+  "author": "Sameer saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyo-kaze/VotesApp/issues"
+  },
+  "homepage": "https://github.com/soyo-kaze/VotesApp#readme"
+}
