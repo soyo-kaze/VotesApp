@@ -3,8 +3,19 @@
 @tailwind utilities;
 
 .wave {
-  background: url("../assets/wave.svg") center center no-repeat;
-  background-size: cover;
   aspect-ratio: 960/540;
   width: 100%;
+}
+.home__wave {
+  background: url("../assets/wave.svg") center center no-repeat;
+  background-size: cover;
+}
+
+.about__wave {
+  background: url("../assets/downWave.svg") center center no-repeat;
+  background-size: cover;
+}
+.poll__wave {
+  background: url("../assets/layeredWave.svg") center center no-repeat;
+  background-size: cover;
 }
