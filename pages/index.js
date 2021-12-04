@@ -1,5 +1,6 @@
 import Image from "next/image";
 import About from "../components/About";
+import Other from "../components/Other";
 import Polls from "../components/Polls";
 
 const Home = () => {
@@ -24,6 +25,7 @@ const Home = () => {
       </section>
       <About />
       <Polls />
+      <Other />
     </>
   );
 };

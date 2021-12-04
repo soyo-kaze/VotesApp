@@ -19,3 +19,8 @@
   background: url("../assets/layeredWave.svg") center center no-repeat;
   background-size: cover;
 }
+
+.rect {
+  background: url("../assets/Rectangle\ 6.png") center center no-repeat;
+  background-size: cover;
+}
